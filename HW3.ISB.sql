@@ -45,8 +45,6 @@ WHERE bits.Consultant.LastName = 'Turner' AND bits.Consultant.FirstName = 'Chris
 #bits 11
 # column phone #
 
-
-
     
 USE sports;
 #sports 4
@@ -92,3 +90,4 @@ WHERE Therapies.TherapyCode = Session.TherapyCode
 #    Tripuides: both TripID and GuideNum 
 
 
+# This is very well done Isaac. Neat and readable code. 
