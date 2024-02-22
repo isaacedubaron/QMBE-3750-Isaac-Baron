@@ -21,3 +21,5 @@
 
 #Review
 #7 When sorting multiple columns at the same time, the first couloumn that is sorted will alwasy be the primary key// Guide number, Trip ID, Customer Number, Reservation ID, Trip ID
+
+#Good job Isaac
