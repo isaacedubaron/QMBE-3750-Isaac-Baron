@@ -2,6 +2,8 @@
 
 #Review: 
 #4 it's a unique combination of columns that can distinguish every record in a table.
+-- A candidate key is a column or combination of columns in a relational database that
+-- uniquely identifies each row in a table
 
 #10 StudentNum -> StudentName, StudentMajor, AdvisorNum, NumCredits, Category
 #Assumption: Each student number uniquely identifies a student's name, major, advisor number, number of credits, and category.
@@ -23,3 +25,6 @@
 #6 The primary key in 4 is clientnum and the primary key in 5 is consltnum, clients can have multiple consultants in 4, and consultant can have multiple clients in 5. 
 
 #Colonial: 2 Reservation: ReservationID (Primary Key), TripID, TripDate, TripPrice, OtherFees; ReservationClient: ReservationID (Primary Key, Foreign Key referencing Reservation(ReservationID)), ClientNum, ClientLastName, ClientFirstName, Address, City, State,ZipCode, Phone 
+
+
+-- Please indicate which ones are your primary keys
